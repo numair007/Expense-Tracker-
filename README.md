@@ -1,6 +1,6 @@
 # Expense-Tracker-
 
-- **Tech Stack:** Full-stack web application using React for the frontend, Java for the backend, and MongoDB for data storage.
+- **Tech Stack:** Android, Jetpack Compose, Java, MongoDB, Kotlin.
 
 - **Functionality:** Allows users to manage expenses by viewing a list and adding new entries.
 
