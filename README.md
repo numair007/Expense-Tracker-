@@ -1,6 +1,6 @@
 # Expense-Tracker-
 
-- **Tech Stack:** Android, Jetpack Compose, Java, MongoDB, Kotlin.
+- **Tech Stack:**  Java, MongoDB, Kafka, Redis, MySql.
 
 - **Functionality:** Allows users to manage expenses by viewing a list and adding new entries.
 
